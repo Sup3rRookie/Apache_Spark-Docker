@@ -25,5 +25,8 @@ Setting up the docker environment and pull the image from the docker hub
 Once installed, to access the notebook click and open the links provided in the terminal
 
 ## DataSets
-Download the dataset from here:
-https://github.com/Sup3rRookie/Apache_Spark-Docker
+Download the dataset from 'Data' Directory
+
+## Feedback
+
+If you have any feedback, please reach out at auliya.izham@gmail.com
